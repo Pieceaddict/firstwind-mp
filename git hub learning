@@ -27,3 +27,11 @@ branching is needed when there are multiple possibilities
 branch me changes kiye gye main file me merge karne ke liye pull request use hoga.
 pull request hamesha owner ki side se hoga
 isme kisse kisme changes comapre karke pull karne wo bhi set kar sakte
+example:
+
+master                         |         probability 1
+l1 ek din mar jayega           |         l1 ek din mar jayega
+l2 kutte ki  muat              |         l2 something else
+
+is case me dispute aayega merge nahi hoga github confirm which one should be put in final version in l2
+isse resolve karne ke liye pull request karke resolve conflict karo aur jo nahi chahiye wo  hata do 
