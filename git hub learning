@@ -18,3 +18,11 @@ GitHub :-> ye sirf git (management) ka online tareeka hai isliye isse chalaneke 
 7)GitHub pages
 
 pencil mark edit file = yaha edid kar sakte file me fir history me changes check kar sakte ho
+
+#########Branching
+this is probability 1 brach linked from main branch with some changes or additional info lekin main branch same rahengi jo pahile thi bina changes aur additional info ke
+branching is needed when there are multiple possibilities 
+
+########### pull request
+branch me changes kiye gye main file me merge karne ke liye pull request use hoga.
+pull request hamesha owner ki side se hoga
